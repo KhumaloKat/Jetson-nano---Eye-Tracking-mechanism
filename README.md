@@ -28,5 +28,5 @@
 
 ## Operation System
 
--Jetson nano Ubuntu 20.04 >>>(https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image)
+-Jetson nano Ubuntu 20.04 OS image >>>(https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image)
   
