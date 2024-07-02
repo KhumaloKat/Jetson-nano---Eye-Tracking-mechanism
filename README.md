@@ -14,8 +14,6 @@
 
 ***Packages installed***
 
-
-
 ***Components***
 
 - Arduino
@@ -28,4 +26,7 @@
 
 - 3D printed Eye-Mechanism components
 
+## Operation System
+
+-Jetson nano Ubuntu 20.04 >>>(https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image)
   
