@@ -2,7 +2,17 @@
 
 ## FEATURES
 
-- 
+***- Real-time Face Tracking***
+Smooth and responsive tracking of faces
+
+***-Lifelike Eye Movements***
+Natural and realistic eye movements
+
+***-Integration with Jetson Nano***
+Leveraging Jetson Nano's AI capabilities for processing
+
+***-Interactive Feedback***
+Visual feedback to users based on face recognition
 
 ## INSTALLATION:
 
