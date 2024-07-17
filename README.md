@@ -16,7 +16,7 @@ Visual feedback to users based on face recognition
 
 ## Display:
 
-![6]()
+![6](https://github.com/KhumaloKat/Jetson-nano-Eye-Tracking-Mechanism/blob/main/Demo/demo.gif)
 
 ## INSTALLATION:
 
