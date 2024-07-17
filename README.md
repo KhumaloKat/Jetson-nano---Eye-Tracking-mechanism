@@ -16,7 +16,7 @@ Visual feedback to users based on face recognition
 
 ## Display:
 
-![6](https://github.com/KhumaloKat/Assignment-4/blob/main/Demo%20Img/home%20.png)
+![6]()
 
 ## INSTALLATION:
 
